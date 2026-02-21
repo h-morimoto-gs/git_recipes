@@ -28,8 +28,8 @@ article{
   box-shadow: 0 10px 30px rgba(0,0,0,.06);
 }
 
-.logo {
-  width: 300px;
+.logo-wrap {
+  width: 600px;
   display: block;
   margin: 0 auto;
 }
