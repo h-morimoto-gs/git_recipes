@@ -34,6 +34,13 @@ article{
   margin: 0 auto;
 }
 
+/* ========== 料理写真のサイズ指定 ========== */
+.recipe-image {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+}
+
 /* ========== typography ========== */
 h1{
   margin: 0 0 10px;
